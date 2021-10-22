@@ -1,4 +1,4 @@
-# 👋 Hello | Kumusta | 你好 | 毎度 (まいど | 안녕하세요 | ٱلسَّلَامُ عَلَيْكُمْ
+# 👋 Hello | Kumusta | 你好 | 毎度 (まいど | 안녕하세요
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][email-shield]][email-url]
