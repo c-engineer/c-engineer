@@ -4,7 +4,7 @@
 [![Email][email-shield]][email-url]
 [![Portfolio][portfolio-shield]][portfolio-url] 
   
-💻 Software Developer
+💻 Full Stack Software Engineer/Lead Developer in Risk Intelligence
 <br>🎓 University of Westminster Alumni with 1st Class Honours in Software Engineering
 <br>🧠 Software Engineer with a passion in EdTech, SpaceTech, Blockchain & Automation
 <br>🏆 Mayor of London Entrepreneurship Awards (2020 & 2021)
