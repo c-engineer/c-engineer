@@ -17,7 +17,6 @@ ___``` Frontend: ```___
 ![VueJS][vuejs-shield]
 ![Django][django-shield]
 ![BS][bs-shield]
-![ReactJS][reactjs-shield]
 ![WP][wp-shield]
 
 ___``` Backend: ```___
