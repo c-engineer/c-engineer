@@ -5,7 +5,7 @@
 [![Portfolio][portfolio-shield]][portfolio-url] 
   
 💻 Full Stack Software Engineer/Lead Developer in Risk Intelligence
-<br>🎓 University of Westminster Alumni with 1st Class Honours in Software Engineering
+<br>🎓 University of Westminster Alumni
 <br>🧠 Software Engineer with a passion in EdTech, SpaceTech, Blockchain & Automation
 <br>
 
