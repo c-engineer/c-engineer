@@ -4,9 +4,9 @@
 [![Email][email-shield]][email-url]
 [![Portfolio][portfolio-shield]][portfolio-url] 
   
-💻 Full Stack Software Engineer/Lead Developer in Risk Intelligence
+💻 Full Stack Software Engineer
 <br>🎓 University of Westminster Alumni
-<br>🧠 Software Engineer with a passion in EdTech, SpaceTech, Blockchain & Automation
+<br>🧠 Passions: EdTech, SpaceTech, Blockchain & Automation
 <br>
 
 ___``` Frontend: ```___
@@ -67,7 +67,6 @@ ___``` Other: ```___
 [vuejs-shield]: https://img.shields.io/badge/VueJS-black?logo=vue.js
 [django-shield]: https://img.shields.io/badge/Django-black?logo=django
 [bs-shield]: https://img.shields.io/badge/BS4/BS5-black?logo=bootstrap
-[reactjs-shield]: https://img.shields.io/badge/ReactJS-black?logo=react
 [wp-shield]: https://img.shields.io/badge/WordPress-black?logo=wordpress
 
 <!-- Backend Logos -->
