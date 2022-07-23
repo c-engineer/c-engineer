@@ -3,9 +3,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][email-shield]][email-url]
 [![Portfolio][portfolio-shield]][portfolio-url] 
-  
-💻 Full Stack Software Engineer
-<br>🎓 University of Westminster Alumni
+
+![Chris's GitHub stats][gh-stats-url]
+<br>
+<br>💻 Full Stack Software Engineer
 <br>🧠 Passions: EdTech, SpaceTech, Blockchain & Automation
 <br>
 
@@ -59,6 +60,8 @@ ___``` Other: ```___
 [email-url]: mailto:chris.engineer@outlook.com?subject=GitHub%3A%20Lets%20Connect
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=linux
 [portfolio-url]: https://christopher-rees.co.uk/
+[gh-stats-url]: https://github-readme-stats.vercel.app/api?username=c-engineer&show_icons=true&theme=dark&count_private=true
+[top-langs-url]: https://github-readme-stats.vercel.app/api/top-langs/?username=c-engineer&langs_count=8&theme=dark
 
 <!-- FRONTEND LOGOS -->
 [js-shield]: https://img.shields.io/badge/ES5/ES6-black?logo=javascript
