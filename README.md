@@ -57,7 +57,7 @@ ___``` Other: ```___
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/chrisengineer/
 [email-shield]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=minutemailer
-[email-url]: mailto:chris.engineer@outlook.com?subject=GitHub%3A%20Lets%20Connect
+[email-url]: mailto:crees@darkgenetics.io
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=linux
 [portfolio-url]: https://christopher-rees.co.uk/
 [gh-stats-url]: https://github-readme-stats.vercel.app/api?username=c-engineer&show_icons=true&theme=dark&count_private=true
