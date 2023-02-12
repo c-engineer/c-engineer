@@ -6,11 +6,6 @@
 
 ![Chris's GitHub stats][gh-stats-url]
 ![Chris's github activity graph][gh-graph-url]
-<br>
-<br>💻 Full Stack Software Engineer
-<br>🧠 Passions: EdTech, SpaceTech, Blockchain & Automation
-<br>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- SOCIAL LINKS -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin
