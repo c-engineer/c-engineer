@@ -12,7 +12,7 @@
 ## My Stats
       
 <div>
-<a href="https://github.com/c-engineer"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=c-engineer&show_icons=true&count_private=true&include_all_commits=true&theme=merko"></a>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=c-engineer&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg=000000">
 
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-engineer&include_all_commits=true&theme=merko">
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-engineer&include_all_commits=true&theme=dark&bg=000000">
 </div>  
