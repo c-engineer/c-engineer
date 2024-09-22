@@ -8,3 +8,11 @@
 [linkedin-url]: https://www.linkedin.com/in/chrisengineer/
 [email-shield]: https://img.shields.io/badge/Email-black?style=for-the-badge&logo=minutemailer
 [email-url]: mailto:chris@globalsphere.io
+
+## My Stats
+      
+<div>
+<a href="https://github.com/c-engineer"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=c-engineer&show_icons=true&count_private=true&theme=merko"></a>
+
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-engineer&theme=merko">
+</div>  
